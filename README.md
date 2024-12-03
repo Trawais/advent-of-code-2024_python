@@ -19,3 +19,9 @@ Also don't forget to set the same Python interpreter in your IDE (VSCode prefera
 INPUT_FILE=day-01/example.input.txt python day-01/task.py
 INPUT_FILE=day-01/puzzle.input.txt python day-01/task.py
 ```
+
+## Day 02
+```shell
+INPUT_FILE=day-02/example.txt python day-02/task.py
+INPUT_FILE=day-02/puzzle.txt python day-02/task.py
+```
