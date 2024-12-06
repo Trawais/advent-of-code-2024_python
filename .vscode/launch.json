@@ -11,7 +11,7 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "env": {
-                "INPUT_FILE": "day-02/example.txt"
+                "INPUT_FILE": "day-03/puzzle.txt"
             }
         }
     ]
